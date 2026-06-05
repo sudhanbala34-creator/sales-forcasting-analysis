@@ -13,7 +13,6 @@ ________________________________________
 Dataset Information
 Dataset Name: Sales Forecasting Dataset
 Source: Kaggle
-Link: https://www.kaggle.com/datasets/rohitsahoo/sales-forecasting
 ________________________________________
 Selected Columns
 Column Name	Description
@@ -108,6 +107,16 @@ Business Insights
 •	Understand sales fluctuations 
 •	Improve inventory planning 
 ________________________________________
+
+Visualisation
+<img width="606" height="455" alt="image" src="https://github.com/user-attachments/assets/f2ca5d13-1550-494e-9bd7-7ba0a9bf599e" />
+<img width="989" height="590" alt="image" src="https://github.com/user-attachments/assets/7d454bbe-934a-45f9-8adc-74b5ebee3523" />
+<img width="1189" height="690" alt="image" src="https://github.com/user-attachments/assets/a150b08a-42ab-407f-ab8d-1cd5f23d0cbf" />
+<img width="589" height="455" alt="image" src="https://github.com/user-attachments/assets/93674931-9323-4dd2-9905-8dfce7031a83" />
+<img width="520" height="455" alt="image" src="https://github.com/user-attachments/assets/93bbb8c3-83a8-4b04-9077-8abb44c4a3dd" />
+<img width="515" height="435" alt="image" src="https://github.com/user-attachments/assets/a75c38b5-f0da-43d1-86a5-61011a3946f9" />
+<img width="997" height="652" alt="image" src="https://github.com/user-attachments/assets/b376043a-c6e1-4756-a417-155ae4e5d557" />
+
 Conclusion
 This project helps in understanding sales patterns and trends using data analysis techniques. It supports better forecasting decisions and improves business strategies through data-driven insights.
 ________________________________________
